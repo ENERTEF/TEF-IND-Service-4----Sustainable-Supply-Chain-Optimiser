@@ -1,3 +1,7 @@
+> **Published service.** Hosted by LMS, University of Patras.
+> Method, example and runner: https://huggingface.co/EnerTEF/Sustainable-Supply-Chain-Optimizer
+> This repository is the technical specification.
+
 # Sustainable Supply Chain Optimizer
 
 **Technical Specifications**
